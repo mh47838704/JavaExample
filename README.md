@@ -1,5 +1,5 @@
 # JavaExample
-该项目主要包含了我在学习Java过程中编写的所有的Java的样例。
+该项目主要包含了我在学习Java过程中编写的所有的Java的样例，我的博客地址是：http://47777205.com/
 
 ## 博客链接
 * [IT技术小窝——专注源码解读分享](http://47777205.com)
@@ -8,6 +8,11 @@
 ## 如何编译
 * 本项目开发工具IDEA
 * Spring boot 2.0.1
+* 构建工具gradle
+
+## 样例目录
+* [SPI实例分析](http://47777205.com/view/19)
+* [Java流处理Stream和Splitterator实例分析](http://47777205.com/view/7)
 
 
 
