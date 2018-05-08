@@ -1,0 +1,5 @@
+grant {
+    // 注解下面的权限配置会引起文件读取错误和配置信息读取错误
+    permission java.util.PropertyPermission "file.encoding", "read";
+    permission java.io.FilePermission "C:\\Users\\Administrator\\Desktop\\fileTest.txt", "read";
+};

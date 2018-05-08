@@ -14,6 +14,7 @@
 * [SPI实例分析](http://47777205.com/view/19)
 * [Java流处理Stream和Splitterator实例分析](http://47777205.com/view/7)
 * [自定义classloader分析和实战](http://47777205.com/view/19)
+* [SecurityManager安全管理器分析和实战](http://47777205.com/view/24)
 
 
 
