@@ -14,11 +14,10 @@
 * [SPI实例分析](http://47777205.com/view/19)
 * [Java流处理Stream和Splitterator实例分析](http://47777205.com/view/7)
 * [自定义classloader分析和实战](http://47777205.com/view/21)
+* [SecurityManager安全管理器分析和实战](http://47777205.com/view/24)
 
 ## 算法分析目录
 * [排序数组去重](https://github.com/mh47838704/JavaExample/blob/master/src/test/java/leetcode/array/TestDuplicat.java)
-* [自定义classloader分析和实战](http://47777205.com/view/19)
-* [SecurityManager安全管理器分析和实战](http://47777205.com/view/24)
 
 
 
